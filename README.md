@@ -1,0 +1,1 @@
+# PKRU-CURD-Mysql-EXAMPLE
